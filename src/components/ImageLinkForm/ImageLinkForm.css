@@ -1,0 +1,9 @@
+.form {
+	width:700px;
+	background: linear-gradient(89deg, #ff1a1a 0%, #04C8DE 100%);
+}
+
+.buttonColor {
+	background: linear-gradient(89deg, #04C8DE 0%, #ff1a1a 100%);
+}
+
